@@ -16,10 +16,9 @@ module.exports = {
         query: {
           presets:['es2015']
         },
-        test: /\$.js/,
+        test: /\.js$/,
         exclude: /node-modules/
       }
     ]
-
     }
   }
