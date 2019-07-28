@@ -1,6 +1,6 @@
 # Responsive web site
 
-This demo is an example of a mobile-first responsive website made using a modern workflow.
+Example of a mobile-first responsive website made using a modern workflow.
 You can see the final result by visiting https://stratoscode87.github.io/GaWD
 
 ## Built With
